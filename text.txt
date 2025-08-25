@@ -1,0 +1,115 @@
+PROMPT TEMPLATE .NET
+
+This is my resume.
+"Douglas Letz
+Senior .NET Engineer | Senior Full Stack Engineer
+(903) 392-0990 	douglasletz83@gmail.com	
+213 Ross Ave, Denison, TX 75020
+https://www.linkedin.com/in/douglas-letz-34b340371/	https://github.com/letzgetstarted
+PROFILE
+My toolkit includes .NET, Python, Go, and JavaScript/TypeScript with React, Angular, Vue.js, and Node.js, making me a versatile force across both infrastructure and software development. I’m a DevOps maestro, turning operational chaos into a symphony of automation and efficiency. Whether it’s DevOps, DevSecOps, or even MLOps, if it ends in ‘Ops,’ I’ve probably mastered it. I build rock-solid CI/CD pipelines, architect scalable cloud solutions in Azure, AWS, and GCP, and orchestrate seamless deployments with Docker and Kubernetes. From APIs to ETL, Database management, and GIS integrations, I optimize, automate, and secure everything I touch—making high performance the norm.
+
+SKILLS
+Programming Languages
+C#, Python, Go, JavaScript, TypeScript, C/C++, Java, PHP, Ruby, R, Dart, PowerShell, Bash, Bicep, HTML5, CSS3, SCSS, SQL, T-SQL, KQL, PL/SQL, PL/pgSQL, SQL/PSM, PL/v8, PL/Python
+C#, C/C++
+.NET, .NET Core, .NET Framework, VB.NET, ASP.NET, ASP.NET Core, ASP.NET MVC, ASP.NET Web API, ASP.NET Web Forms, WPF, UWP, ADO.NET, LINQ, Entity Framework, Entity Framework Core, .NET MAUI, Xamarin, WCF, SignalR, Blazor, ASP.NET Razor, MSTest, NUnit, xUnit.net, Moq, Visual Studio, Rider, JetBrains, C++11, C++14, C++17, C++20
+JavaScript & TypeScript
+Angular, AngularJS, React, React Native, Webpack, Vite, Redux, Zustand, Expo, Storybook, Ant Design, MUI (Material UI), Express.js, Node.js, NestJS, WebRTC, jQuery, Next.js, Vue.js, D3.js, Chart.js, Leaflet, Jest, Mocha, Bootstrap, Tailwind CSS
+Python, Go (Golang), Ruby, PHP, Java
+Flask, Django, FastAPI, NumPy, pandas, scikit-learn, Matplotlib, SciPy, SymPy, Gin, Go kit, GORM, Cobra, Viper, Ruby on Rails,
+Laravel, WordPress, Magento, Drupal, Spring, Spring Boot, Spring MVC, Spring Security, GWT, Hibernate, JSF, JPA, JUnit, J2EE
+Database & Storage
+Microsoft SQL Server, SQL Server Management Studio, SSIS, SSRS, PostgreSQL, PostGIS, Oracle Database, MySQL, MariaDB, MongoDB, Redis, Memcached, Amazon RDS, Amazon Redshift, Amazon DynamoDB, Amazon ElastiCache, Amazon S3, Azure SQL Database, Azure Database for PostgreSQL, Azure Cosmos DB, Azure Blob Storage, Azure Data Lake, Google Cloud Storage
+Cloud Platforms
+Microsoft Azure, AWS (Amazon Web Services), GCP (Google Cloud Platform), Oracle Cloud, IBM Cloud
+Azure Kubernetes Service, Azure Service Bus, Azure Key Vault, Azure App Service, Azure Active Directory, Azure Functions, Azure Monitor, Azure DevOps, Azure Notification Hubs, AWS Lambda, AWS IAM, AWS Amplify, AWS DRS, Amazon EC2, Amazon ECR, Amazon ECS, Amazon EKS, Amazon CloudWatch, Amazon SNS, Amazon SQS, GKE (Google Kubernetes Engine), Google Analytics, BigQuery, Pub/Sub, Dataflow, Firebase, Salesforce, ServiceNow, Teradata, Snowflake, Databricks, Datadog
+DevOps
+Docker, Kubernetes, RabbitMQ, gRPC, Kafka, Spark, Prometheus, Grafana, Helm, Jaeger, OpenTelemetry, Terraform, Parasoft, Selenium, CI/CD, Jenkins, SonarQube, CircleCI, Cypress, Git, GitHub, GitLab, Agile, Scrum, Kanban, Jira, ETL, ELK, Elasticsearch, Logstash, Kibana, TDD, RESTful API, GraphQL, ArcGIS, ESRI, Tableau, CMS, Dynamics 365, PWA, SPA, IaC, SaaS, IaaS, PaaS
+Soft Skills
+Communication, Teamwork, Problem Solving, Time Management, Leadership, Adaptability, Creativity, Conflict Resolution, Critical Thinking, Customer Service, Decision Making, Emotional Intelligence, Flexibility, Goal Setting, Interpersonal Skills, Negotiation, Patience, Problem Analysis, Conflict Management, Resilience, Strategic Thinking
+WORK EXPERIENCE
+Senior Software Engineer, TFORM Inc.
+03/2022 – 05/2025 | Irving, TX
+•	Architected and containerized a microservices ecosystem using C#/.NET Core and Docker, orchestrated via Kubernetes (AKS/EKS), which improved system scalability and resiliency (achieving 99.9% uptime); implemented robust API designs (RESTful services and gRPC) and messaging with RabbitMQ for inter-service communication, reducing downtime incidents by 85% through fault isolation and auto-recovery.
+•	Developed rich Single Page Applications (SPA) using Angular and React (TypeScript), and delivered certain modules with Vue.js, all with responsive HTML5/CSS3 UI and PWA features while ensuring full accessibility compliance (WCAG 2.1 AA). Optimized front-end performance (code-splitting and tree-shaking via Webpack/Vite), cutting initial load times by 50% and boosting user engagement (30% longer session durations).
+•	Leveraged a polyglot tech stack to maximize efficiency: built core services in C# (.NET 6) for enterprise logic, implemented performance-critical microservices in Go for high-concurrency tasks, and used Node.js (TypeScript/Express) for lightweight real-time APIs. This approach accelerated development cycles by 25% by using each platform’s strengths (e.g. Go for concurrency, Node.js for rapid prototyping, .NET for robust data handling).
+•	Unified and cleansed IT Ops data from multiple sources (CMDB, ServiceNow, SolarWinds, Commvault, etc.) into a Single Source of Truth (SSOT) repository by implementing agentless scanners (C# and Python) and real-time streaming with Apache Kafka. This data integration pipeline eliminated silos and improved configuration data completeness by 30%, ensuring up-to-date, consistent asset data across all tools.
+•	Optimized database performance and scalability by tuning Microsoft SQL Server (indexed queries, optimized stored procedures) and introducing an in-memory caching layer with Redis. Also integrated a NoSQL store (MongoDB) for flexible handling of unstructured data, reducing average query response times by 70% and enabling the system to handle a 5× increase in throughput (processing millions of records daily) without performance degradation.
+•	Built an AI-powered correlation engine (using Python and ML.NET) to automatically detect and reconcile data discrepancies across ITSM, monitoring, and security tools. This predictive analytics solution improved data accuracy by 25% and proactively prevented configuration drift, reducing critical incidents caused by data quality issues by 40% through early anomaly detection and automated remediation.
+•	Implemented end-to-end CI/CD pipelines with Azure DevOps and GitHub Actions to automate build, test (unit and integration), and deployment for 50+ microservices and front-end applications. Achieved continuous delivery with zero-downtime releases by using blue-green deployment on Kubernetes, shrinking release times from hours to minutes (80% faster) and enabling multiple deployments per week.
+•	Automated infrastructure provisioning and configuration using Infrastructure as Code (Terraform and Azure Bicep), enabling repeatable deployments across Azure, AWS, and GCP. This multi-cloud IaC approach reduced environment setup time by ~70% and ensured consistency (no configuration drift) across dev, test, and production, simplifying disaster recovery and scaling in hybrid cloud environments.
+•	Strengthened security and compliance by integrating enterprise SSO (OAuth 2.0/OpenID Connect via Azure AD and Okta) and enforcing data encryption (TLS 1.2+ in transit, AES-256 at rest). Embedded security scans (SonarQube, Snyk) and secret management (HashiCorp Vault) into the CI/CD pipeline, achieving 100% adherence to OWASP Top 10 and passing all audits (e.g. PCI DSS, ISO 27001) with zero critical vulnerabilities in production.
+•	Established comprehensive monitoring and observability, deploying centralized logging (ELK stack) and metrics dashboards (Prometheus/Grafana) alongside distributed tracing with OpenTelemetry. These tools reduced mean time to recovery by 60% and helped achieve 99.99% system availability by enabling proactive issue detection and rapid root-cause analysis across microservices.
+•	Championed quality through Test-Driven Development (TDD) and automated testing: created extensive unit test suites with xUnit/NUnit for .NET and Jest for JavaScript, plus integration and end-to-end tests. Maintained 85%+ code coverage, resulting in a 40% drop in production bugs, and enforced static code analysis (SonarQube rules) to ensure consistent code quality and reliability.
+•	Led Agile Scrum processes for a team of 7 engineers, overseeing full SDLC from design to deployment. Facilitated sprint planning, daily stand-ups, and retrospectives using Jira and Azure Boards, which improved delivery velocity by 30%. Mentored junior developers in object-oriented design and debugging, raising overall team productivity and contributing to a knowledge-sharing engineering culture.
+•	Managed large-scale data migration and reporting efforts: used SSIS (SQL Server Integration Services) and Python to ETL over 10 million legacy records into the new TFORM platform with near-zero downtime, ensuring 100% data integrity. Developed interactive dashboards and reports using SSRS and Power BI to track data quality KPIs, eliminating manual reporting and doubling the speed of stakeholder decision-making with real-time insights.
+•	Designed flexible API layers by implementing both RESTful APIs and GraphQL endpoints to expose data services. This dual approach increased integration capabilities and reduced client integration effort by ~40% (complex data queries handled server-side via GraphQL). Documented APIs with Swagger/OpenAPI and GraphQL schemas, streamlining onboarding for third-party developers and cutting support inquiries by 30% through clear, self-service documentation.
+•	Applied advanced software design principles (Domain-Driven Design and SOLID) and patterns (Dependency Injection, Repository, CQRS, etc.) to keep the codebase modular and maintainable. This architecture rigor enabled easier feature enhancements and team scaling – evidenced by a 20% reduction in new developer onboarding time and the ability to add new functionalities with minimal refactoring or regression issues.
+Full Stack Engineer, AeroDefense LLC
+01/2018 – 02/2022 | Oceanport, NJ
+•	Designed and implemented modular backend APIs in ASP.NET Core and Python (Flask) to power the AirWarden™ drone detection platform, serving telemetry, analytics, and admin UIs with response times under 200 milliseconds.
+•	Created a policy-based rules engine in .NET Core for defining alert thresholds and auto-responses based on drone signal types, RF strength, and geofence violations.
+•	Developed and maintained the AirWarden™ drone detection system, a patented real-time drone and pilot detection solution, using Node.js, React, Python (Flask), and Go, ensuring scalable and secure operations for critical infrastructure protection.
+•	Optimized the real-time data processing pipeline for drone detection and location tracking by implementing a microservices architecture with Docker, Kubernetes, and AWS, reducing data processing latency by 35%.
+•	Integrated RESTful APIs and WebSockets to facilitate real-time communication between the detection system and user interfaces, enhancing response accuracy for security teams by 40%.
+•	Enhanced the system's cybersecurity posture by integrating AWS Identity and Access Management (IAM), Azure Active Directory (AD), and Palo Alto firewalls, aligning with DHS SAFETY Act standards for secure drone detection.
+•	Engineered robust monitoring and observability using Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), achieving 99.9% uptime and real-time anomaly detection.
+•	Developed an enhanced front-end dashboard with React, Redux, and WebSockets, providing security teams with intuitive, real-time drone detection and response interfaces.
+•	Streamlined drone detection data storage using PostgreSQL (PostGIS) for geospatial data and MongoDB for NoSQL data, optimizing query performance by 45%.
+•	Automated infrastructure management with Terraform and AWS CloudFormation, achieving consistent, version-controlled infrastructure provisioning.
+•	Optimized performance of real-time drone detection algorithms using Go for high-speed calculations, achieving a 50% increase in detection accuracy.
+•	Led the design and deployment of an Edge Computing solution using AWS Greengrass, enabling local drone detection and real-time alerting in low-latency environments.
+•	Collaborated with cross-functional teams to ensure the successful deployment of AirWarden™ at multiple high-security facilities, including DHS technology assessments and NFL stadiums, ensuring compliance with federal regulations.
+Senior Software Engineer, College Board
+04/2014 – 12/2017 | New York, NY
+•	Engineered and deployed scalable microservices using .NET (C#) and ASP.NET Web API, enhancing the performance of educational applications by 30% through optimized request handling and efficient API design.
+•	Developed dynamic, responsive front-end applications using AngularJS, React, and Vue.js, enabling seamless user interactions for millions of students accessing the SAT and AP exam registration portals.
+•	Architected and maintained secure RESTful APIs and GraphQL services for the College Board’s data exchange platform, ensuring compliance with industry standards like WCAG 2.1 AA and ISO 27001.
+•	Enhanced database performance by 50% through SQL Server query optimization, stored procedure refactoring, and the implementation of indexing strategies, directly improving data retrieval times for AP and SAT score reports.
+•	Streamlined the software development lifecycle by implementing Agile (Scrum) practices, leading cross-functional teams, and ensuring timely delivery of educational technology solutions.
+•	Built and maintained cloud-native applications on Azure, leveraging Azure Functions for serverless processing, Azure App Services for scalable hosting, and Azure SQL Database for secure, compliant data storage.
+•	Enhanced API security through OAuth 2.0, JWT, and API Gateway configurations, ensuring secure communication between front-end applications and backend services.
+•	Optimized legacy .NET applications by migrating them to .NET Core, improving performance, reducing memory usage, and ensuring compatibility with modern cloud infrastructure.
+•	Developed Python and PowerShell automation scripts for cloud resource management, application deployments, and system monitoring, reducing manual intervention by 60%.
+•	Ensured the security of sensitive educational data through the implementation of data encryption (at-rest and in-transit) and automated security compliance checks, achieving compliance with ISO 27001 and HIPAA guidelines.
+Software Engineer, Innowise Inc.
+05/2013 – 04/2014 | St. Petersburg, FL
+•	Built and maintained automated infrastructure provisioning pipelines using Bash and PowerShell scripts on Linux and Windows environments, reducing deployment time by 70%.
+•	Developed scalable web applications using ASP.NET and C# for enterprise clients, ensuring modular architecture and optimized performance for high-traffic systems.
+•	Migrated monolithic applications to a microservices architecture using .NET Web API, enhancing scalability and maintainability of services.
+•	Engineered performant database solutions using SQL Server, optimizing query performance by 50% through indexing, stored procedures, and query refactoring.
+•	Created RESTful APIs using ASP.NET Web API, implementing JWT-based authentication and role-based access control for secure client interactions.
+•	Actively participated in Agile Scrum teams, contributing to sprint planning, task estimation, and iterative software delivery, achieving consistent sprint goals.
+EDUCATION
+Bachelor of Science / Computer Science, Boston University
+09/2009 – 04/2013 | Boston, MA
+Completed challenging courses covering algorithms, data structures, and programming languages.
+AWARDS
+ICPC Gold Prize
+2012
+Won the gold prize in the ICPC Greater NY Regional Contest.
+LANGUAGES
+English
+Native"
+
+This is my personal info.
+"I'm originally from Glasgow, Scotland. I graduated from Jordanhill School.
+Outside of work, I love listening to music. My favorite genres are classical, new age, Celtic folk, and Irish music. I’m really into artists like Celtic Woman and Israel Kamakawiwo'ole. I also enjoy learning new things, especially when it comes to technology."
+
+This is the job description.
+""
+
+I'm taking an important interview today for a technical position. Please answer the following technical questions with a focus on high-level solutions and integration points, and ensure the responses are concise yet detailed, as if speaking aloud during an interview. Assume the interviewer has advanced technical expertise.
+
+Use my resume as a reference point for project experience but don't limit yourself to it—be creative while remaining realistic. When discussing my projects, follow the STAR method (Situation, Task, Action, Result) to highlight my hands-on coding and problem-solving achievements. Briefly mention my architect and management experience, but prioritize the technical aspects.
+
+This is very important!!! Present conclusions upfront, followed by brief explanations, and this response structure must be applied to all of your answers to technical questions hereafter.
+The answers should feel natural and conversational, not like they're being generated by AI. By giving conclusions first and then following up with short explanations, I can ensure the responses appear concise and to the point.
+
+Here are the questions:
+
+Tell me about yourself.
+
+
+Tell me about your projects that align with the job description using the STAR method in detail. Tell us how you did what, not just what you did. And don't make any mistakes in such a way that you've used technologies that were not published at that time or you used technologies that don't harmonize well with each other.
